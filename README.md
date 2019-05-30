@@ -1,7 +1,7 @@
-# deeplearning.ai Certifications
+# deeplearning.ai Deep Learning Specialization Certifications
 My certificates for Deep Learning Specialization by deeplearning.ai
 
-## Completion of the Specialization
+## Completion of the Deep Learning Specialization
 - [Completion Certificate of Specialization]()
 
 ### Sequence Models
