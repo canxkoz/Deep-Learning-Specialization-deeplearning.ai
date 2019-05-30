@@ -1,4 +1,4 @@
-# Deep Learning Specialization Certifications by deeplearning.ai 
+# Deep Learning Specialization Certificates by deeplearning.ai 
 My certificates for Deep Learning Specialization by deeplearning.ai
 
 ## Completion of the Deep Learning Specialization
