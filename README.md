@@ -4,7 +4,7 @@ My certificates for Deep Learning Specialization by deeplearning.ai
 ## Completion of the Deep Learning Specialization
 - [Completion Certificate of Specialization](https://www.coursera.org/account/accomplishments/specialization/FWCL3REV9TDW)
 
-![Certificate 6](certificates/Coursera FWCL3REV9TDW-1.jpg)
+![Certificate 6](certificates/Coursera_FWCL3REV9TDW-1.jpg)
 
 ### Sequence Models
 - [Completion Certificate of Course 5](https://www.coursera.org/account/accomplishments/verify/CDZQGZKWZA2P)
